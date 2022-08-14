@@ -24,7 +24,8 @@
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
-
+![AndrewNoh GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewNoh&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 - :office: &nbsp;I'm currently working at **[none]**
 - :seedling: &nbsp;I’m currently learning **Android**
