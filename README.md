@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Andrew Noh</h1>
-<h3 align="left">I am a Insu, doing android developer</h3>
+<h3 align="left">I am a Insu, doing android developer & backend developer</h3>
 
 
 <p align="left">
@@ -27,7 +27,7 @@
 </p>
 
 - :office: &nbsp;I'm currently working at **[none]**
-- :seedling: &nbsp;I’m currently learning **Android**
+- :seedling: &nbsp;I’m currently learning **Android & backend**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
