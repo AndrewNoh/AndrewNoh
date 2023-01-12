@@ -1,4 +1,8 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Andrew Noh</h1>
+<p align="center">
+  <a href="https://anuraghazra.github.io">
+    <img width="80%" alt=":wave: Hello there! I'm Andrew Noh" src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 <h3 align="left">I am a Insu, doing backend developer</h3>
 
 
@@ -31,11 +35,9 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&layout=compact)](https://github.com/AndrewNoh/github-readme-stats)
 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewNoh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AndrewNoh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-
-[![AndrewNoh github stats](https://github-readme-stats.vercel.app/api?username=AndrewNoh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
