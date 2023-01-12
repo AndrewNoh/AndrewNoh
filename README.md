@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://anuraghazra.github.io">
-    <img width="80%" alt=":wave: Hello there! I'm Andrew Noh" src="./assets/gh-readme-header.png" />
-  </a>
+    :wave: Hello there! I'm Andrew Noh
 </p>
 <h3 align="left">I am a Insu, doing backend developer</h3>
 
@@ -35,8 +33,6 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
-
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewNoh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="AndrewNoh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
