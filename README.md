@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Andrew Noh</h1>
-<h3 align="left">I am a Insu, doing android developer & backend developer</h3>
+<h3 align="left">I am a Insu, doing backend developer</h3>
 
 
 <p align="left">
@@ -26,15 +26,16 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[none]**
+- :office: &nbsp;I'm currently working at **[investycorp]**
 - :seedling: &nbsp;I’m currently learning **Android & backend**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&layout=compact)](https://github.com/AndrewNoh/github-readme-stats)
 
-![AndrewNoh github stats](https://github-readme-stats.vercel.app/api?username=AndrewNoh&hide_border=true&show_icons=true)
-[![AndrewNoh github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewNoh&show_icons=true&langs_count=8&title_color=004386&hide_border=true&icon_color=004386&layout=compact)](https://github.com/AndrewNoh)
 
+
+[![AndrewNoh github stats](https://github-readme-stats.vercel.app/api?username=AndrewNoh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -75,5 +76,5 @@
 
 <!-- links -->
 
-[none]: https://github.com/AndrewNoh/
+[investycorp]: https://github.com/investycorp
 [linkedin]: https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png
