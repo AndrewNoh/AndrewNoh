@@ -30,7 +30,7 @@
 
 - :office: &nbsp;I'm currently working at **[investycorp]**
 - :seedling: &nbsp;I’m currently learning **Android & backend**
-- :computer: &nbsp;Connect with me on **[Kakao Open]**
+- :computer: &nbsp;Connect with me on **[Kakao]**
 
 <br>
 
