@@ -30,7 +30,7 @@
 
 - :office: &nbsp;I'm currently working at **[Investycorp]**
 - :seedling: &nbsp;I’m currently learning **Android & backend**
-- :computer: &nbsp;Connect with me on **[Kakao Open Chat]**
+- :computer: &nbsp;Connect with me on **[Kakao]**
 
 <br>
 
@@ -75,4 +75,4 @@
 <!-- links -->
 
 [Investycorp]: https://github.com/investycorp
-[Kakao Open Chat]: https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png
+[Kakao]: https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png
