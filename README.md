@@ -28,9 +28,9 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **[investycorp]**
+- :office: &nbsp;I'm currently working at **[Investycorp]**
 - :seedling: &nbsp;I’m currently learning **Android & backend**
-- :computer: &nbsp;Connect with me on **[Kakao]**
+- :computer: &nbsp;Connect with me on **[Kakao Open Chat]**
 
 <br>
 
@@ -74,5 +74,5 @@
 
 <!-- links -->
 
-[investycorp]: https://github.com/investycorp
-[linkedin]: https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png
+[Investycorp]: https://github.com/investycorp
+[Kakao Open Chat]: https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png
