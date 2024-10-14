@@ -44,12 +44,11 @@
 
 - [Kakao](https://user-images.githubusercontent.com/32383693/184526239-886170d4-1fee-4628-9dbe-b1d9a0a950bd.png) | [GitHub](https://github.com/AndrewNoh) | [Notion](https://www.notion.so/andrew-noh/36239bad2a7e44fe99c038b6328852fb)
 
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AndrewNoh&style=flat-square&color=blue" alt="page views" />
-</p>
 
 ---
 
 <p align="center">💡 "Learning never exhausts the mind." – Leonardo da Vinci</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AndrewNoh&style=flat-square&color=blue" alt="page views" />
+</p>
