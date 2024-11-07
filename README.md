@@ -1,8 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Andrew Noh</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F8DFF&width=435&lines=Backend+Developer;Java+Spring+Expert;Always+Improving!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=4F8DFF&background=FFFFFF00&center=true&vCenter=true&width=550&lines=Backend+Developer+%E2%9A%A1;Java+Spring+Expert+%F0%9F%92%AA;Efficiency+%26+Quality+%F0%9F%8C%9F;Always+Improving+%F0%9F%93%88" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
