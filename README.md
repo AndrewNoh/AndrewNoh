@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 I’m a **Backend Developer** at [Investycorp](https://github.com/investycorp)
-- 📚 With 2 years of experience in backend development, specializing in Java and Spring
-- 🎯 Focused on building efficient, scalable systems and experimenting with new technologies
-- ⚡  Fun Fact: I love solving tricky backend challenges with elegant code solutions!
+- 🧑‍💻 Backend Developer at Investycorp, crafting innovative solutions for complex systems
+- 📚 Experienced in backend development with a strong focus on Java and Spring, delivering reliable and scalable architectures
+- 🎯 Passionate about designing efficient systems and constantly exploring emerging technologies to enhance functionality
+- ⚡ Fun Fact: I thrive on turning tricky backend challenges into seamless, elegant code!
 
 ---
 
